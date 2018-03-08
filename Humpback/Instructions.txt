@@ -1,0 +1,16 @@
+HUMPBACK
+GeoJSON plugin for Grasshopper 
+
+--------------------
+INSTALLATION STEPS:
+This installation requires a working copy of Rhino and Grasshopper. 
+1.	Open Rhino and type Grasshopper into the command line. Allow Grasshopper to open.
+2.	In Grasshopper, go to File > Special Folders > User Object Folder. This will open file explorer. 
+3.	Copy the folder “Humpback” downloaded with these instructions.
+4.	Paste into User Object Folder (opened in step 2). 
+5.	Close and reopen both Rhino and Grasshopper. You should now see a tab called Humpback in the grasshopper tool bar. 
+For a quick introduction to the plug-in open “Humpback_Examples.gh” downloaded with these instructions. 
+--------------------
+
+For more information on the plug-in visit: https://github.com/madeleinejohanson/Humpback
+To display your 3D GeoJSON buildings in a world map, see: https://madeleinejohanson.github.io/UrbanCoDe/ 
